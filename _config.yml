@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "test_profile.png"
+  avatar           : "/images/test_profile.png"
   name             : "Michael Fasci"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
