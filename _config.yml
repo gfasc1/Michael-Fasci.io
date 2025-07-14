@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Michael Fasci's Homepage"
+title                    : "Michael's Homepage"
 title_separator          : "Biogineering Undergrad Student"
 name                     : &name "Michael Fasci"
 description              : &description "personal description"
