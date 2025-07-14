@@ -22,7 +22,7 @@ repository               : "gfasc1/Michael-Fasci.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Me.jpg"
+  avatar           : "Me.jpg"
   name             : "Michael Fasci"
   pronouns         : "He/Him"
   bio              : "Cool Guy"
