@@ -13,9 +13,9 @@ Hello! I’m Michael, a 3rd year at Washington State University majoring in bioe
 <b>Academic Background</b>
 <br>Institution: Michael Fasci
 
-<b>Major:</b> Bioeningeering
+<u>Major:</u> Bioeningeering
 
-<b>Expected Graduation:</b> May 2027
+<u>Expected Graduation:</u> May 2027
 
 
 <b>Research Experience</b>
@@ -29,12 +29,12 @@ This summer I have been expanding a hair computer vision model by increasing the
 
 Gave a poster presentation my work titled “Creating the world’s largest mammalian hair database to create a new health diagnostic tool.”
 
-Upcoming/Planned: ABRCMS 2025, San Antonio, TX
+<u>Upcoming/Planned:</u> ABRCMS 2025, San Antonio, TX
 
 <b>Skills & Technical Proficiencies</b>
-<br>Laboratory/Research: I am trained in histology and microscopy, and data analysis
+<br><u>Laboratory/Research:</u> I am trained in histology and microscopy, and data analysis
 
-Computational: I am proficient in python, R, MATLAB, C++, computer vision, and computer learning.
+<u>Computational:</u> I am proficient in python, R, MATLAB, C++, computer vision, and computer learning.
 
 
 <b>Extracurriculars & Leadership</b>
