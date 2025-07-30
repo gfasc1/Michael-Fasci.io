@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 <img src="/Michael-Fasci.io/images/Fasci_Michael_02.jpg" alt="An Image" style="float: right; width: 300px;" />
-
 Hello! I’m Michael, a 3rd year at Washington State University majoring in bioengineering. I am passionate about learning about biology and finding relevent solutions to improving the way we conduct science and am actively seeking research opportunities to contribute to meaningful projects while expanding my academic and professional skills.
 
 <b>Academic Background</b>
